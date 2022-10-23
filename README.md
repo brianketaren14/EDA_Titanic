@@ -2,25 +2,32 @@
 [https://www.kaggle.com/competitions/titanic/data](https://www.kaggle.com/competitions/titanic/data)
 # Feature Target
 
-1. Passengerld: Unique Id of a passenger
-2. Survived: If the passenger survived(0-No, 1-Yes)
+1. Survived: If the passenger survived(0-No, 1-Yes)
 
-3. Pelass Passenger Class (1 = 1", 2= 2", 3= 3")
+2. Pelass Passenger Class (1 = 1", 2= 2", 3= 3")
 
-4. Name: Name ofthe passenger
+3. Name: Name ofthe passenger
 
-5. Sex: Male/Female
+4. Age: Passenger age in years
 
-6. Age: Passenger age in years
+5. SibSp: No of ablingyspouses aboard
 
-7. SibSp: No of ablingyspouses aboard
+6. Parch: No of parents/children aboard
 
-8. Parch: No of parents/children aboard
+7. Ticket: Ticket Number
 
-9. Ticket: Ticket Number
+8. Fare: Passenger Fare
 
-10. Fare: Passenger Fare
+9. Embarked: Port of Embarkation (C = Cherbourg; Q= Queenstown; S = Southampton)
 
-11. Cabin: Cabin number
+10. Class : Pasennger Class (First, Second, Third)
 
-12. Embarked: Port of Embarkation (C = Cherbourg; Q= Queenstown; S = Southampton)
+11. who : (Child, Woman, Man)
+
+12. Deck : Ship Deck
+
+13. Embarked_Town : Embarked Town
+
+14. Alive : True or False
+
+15. Alone : True of False
